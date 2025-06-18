@@ -60,7 +60,7 @@ With hands-on experience in real-world business analysis projects, I focus on de
 - 📧 satyamp352@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/satyam-pandey-17a34a228/)  
 - 📁 [Portfolio](https://drive.google.com/drive/folders/1qFizIVOkFSxys0zVGSnJtZuctpwTSG8f?usp=drive_link)
-- 🖥️ [GitHub Projects](https://github.com/yourusername)
+- 🖥️ [GitHub Projects](README.md)
 
 ---
 
