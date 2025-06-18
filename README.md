@@ -4,7 +4,7 @@
 
 💼 Business Analyst | 📊 Data Visualization Enthusiast
 
-Skilled in translating business requirements into data-driven solutions by designing interactive dashboards, automating reports, and uncovering insights using Power BI/Tableau.
+Skilled in transforming business challenges into actionable insights by gathering requirements, streamlining processes, visualizing data, and delivering solutions that support strategic decision-making and improve performance.
 ---
 
 ### 🔹 About Me
