@@ -50,7 +50,6 @@ With hands-on experience in real-world business analysis projects, I focus on de
 - ✅ Agile Fundamentals – (https://simpli-web.app.link/e/klvOe7ahnUb)
 - ✅ Jira - (https://university.atlassian.com/student/award/Fpk74GV4ZHqN7u7tn94MSakD)
 - ✅ Six Sigma - https://www.sixsigmacouncil.org/six-sigma-white-belt-certification/
-- ✅ SDLC & BA Processes - https://www.simplilearn.com/sdlc-basics-skillup
 
 ---
 
