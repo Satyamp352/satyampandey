@@ -47,7 +47,7 @@ With hands-on experience in real-world business analysis projects, I focus on de
 - ✅ ## 📜 Certifications
 
 - 🏅 [Google Data Analytics Professional Certificate (Coursera)](https://www.credly.com/badges/e0ec97ad-c944-41bb-b627-71cedcc97770)
-- ✅ Agile Fundamentals – https://www.scrumstudy.com/free-agile-scrum-certification
+- ✅ Agile Fundamentals – (https://simpli-web.app.link/e/klvOe7ahnUb)
 - ✅ Jira - (https://university.atlassian.com/student/award/Fpk74GV4ZHqN7u7tn94MSakD)
 - ✅ Six Sigma - https://www.sixsigmacouncil.org/six-sigma-white-belt-certification/
 - ✅ SDLC & BA Processes - https://www.simplilearn.com/sdlc-basics-skillup
