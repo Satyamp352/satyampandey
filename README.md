@@ -49,7 +49,6 @@ With hands-on experience in real-world business analysis projects, I focus on de
 - 🏅 [Google Data Analytics Professional Certificate (Coursera)](https://www.credly.com/badges/e0ec97ad-c944-41bb-b627-71cedcc97770)
 - ✅ Agile Fundamentals – (https://simpli-web.app.link/e/klvOe7ahnUb)
 - ✅ Jira - (https://university.atlassian.com/student/award/Fpk74GV4ZHqN7u7tn94MSakD)
-- ✅ Six Sigma -(https://dashboard.educate360.com/certification/eyJpdiI6Ijh4N0tBQ1loRzIzK3BMR0MwcnU0dXc9PSIsInZhbHVlIjoiTDZraDZ6N3NZL1Q3V0RSQllGVU5Pdz09IiwibWFjIjoiNTYxNmUxMzUyYTYxY2M1Yzg3NGI0ODkxOTRkZmEwMzc0OTg5MzAyN2Y0NTNmZjljNWMyODZlYzMzMDA5ZDE4OCIsInRhZyI6IiJ9)
 
 ---
 
